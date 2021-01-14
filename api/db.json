@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "keshav sethi",
+      "description": "this is my first stream.",
+      "id": 1
+    },
+    {
+      "title": "keshav sethi",
+      "description": "this is my second stream and i am editing it.",
+      "id": 2
+    },
+    {
+      "title": "programmed navigation..",
+      "description": "we added navigation to the action creator via creating and manipulating the history object directly.",
+      "userId": "107408991283004015602",
+      "id": 3
+    },
+    {
+      "title": "I try programmed navigation again",
+      "description": "hope it works this time.",
+      "userId": "107408991283004015602",
+      "id": 4
+    },
+    {
+      "title": "i fixed the code by putting the history.push command into the create stream function",
+      "description": "hope it runs now",
+      "userId": "107408991283004015602",
+      "id": 5
+    },
+    {
+      "title": "kunal0007",
+      "description": "i am a truly killer guy.",
+      "userId": "102836240952275408000",
+      "id": 6
+    }
+  ]
+}
